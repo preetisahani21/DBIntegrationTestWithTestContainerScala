@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="sbt: org.mockito:mockito-scala_2.12:1.16.37:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Library/Caches/Coursier/v1/https/artifactory.joveo.com/artifactory/list/sbt-release/org/mockito/mockito-scala_2.12/1.16.37/mockito-scala_2.12-1.16.37.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Library/Caches/Coursier/v1/https/artifactory.joveo.com/artifactory/list/sbt-release/org/mockito/mockito-scala_2.12/1.16.37/mockito-scala_2.12-1.16.37-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Library/Caches/Coursier/v1/https/artifactory.joveo.com/artifactory/list/sbt-release/org/mockito/mockito-scala_2.12/1.16.37/mockito-scala_2.12-1.16.37-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

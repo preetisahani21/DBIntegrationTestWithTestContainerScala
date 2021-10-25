@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="sbt: com.dimafeng:testcontainers-scala-mysql_2.12:0.39.8:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Library/Caches/Coursier/v1/https/artifactory.joveo.com/artifactory/list/sbt-release/com/dimafeng/testcontainers-scala-mysql_2.12/0.39.8/testcontainers-scala-mysql_2.12-0.39.8.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Library/Caches/Coursier/v1/https/artifactory.joveo.com/artifactory/list/sbt-release/com/dimafeng/testcontainers-scala-mysql_2.12/0.39.8/testcontainers-scala-mysql_2.12-0.39.8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Library/Caches/Coursier/v1/https/artifactory.joveo.com/artifactory/list/sbt-release/com/dimafeng/testcontainers-scala-mysql_2.12/0.39.8/testcontainers-scala-mysql_2.12-0.39.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
